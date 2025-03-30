@@ -1,14 +1,14 @@
 # StockMarketForecasting-prophet
 This project leverages Facebook’s Prophet to predict stock market trends with high accuracy. Prophet is an advanced time-series forecasting model developed by Meta, designed to handle seasonality, holidays, and trend shifts effectively.
 
-🚀 Key Features:
+# 🚀Key Features:
 ✅ Time-Series Forecasting – Predict future stock prices based on historical data
 ✅ Automatic Trend Detection – Handles seasonality and trend changes efficiently
 ✅ User-Friendly Visualization – Interactive graphs to analyze stock trends
 ✅ Customizable Parameters – Adjust hyperparameters to optimize forecasts
 ✅ Real-World Data Integration – Uses stock market datasets for accurate predictions
 
-🛠 Technologies Used:
+# 🛠 Technologies Used:
 🔹 Python (Pandas, NumPy, Matplotlib, Seaborn)
 🔹 Facebook Prophet for forecasting
 🔹 yFinance / Alpha Vantage for stock data retrieval
