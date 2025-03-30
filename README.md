@@ -14,6 +14,4 @@ This project leverages Facebook’s Prophet to predict stock market trends with 
 🔹 yFinance / Alpha Vantage for stock data retrieval
 🔹 Streamlit (Optional) for building an interactive dashboard
 
-This project aims to help traders, analysts, and researchers make data-driven investment decisions by forecasting stock prices with improved accuracy.
-
-📌 Next Steps: Model fine-tuning, adding more financial indicators, and integrating deep learning for hybrid forecasting models.
+📌This project aims to help traders, analysts, and researchers make data-driven investment decisions by forecasting stock prices with improved accuracy.
